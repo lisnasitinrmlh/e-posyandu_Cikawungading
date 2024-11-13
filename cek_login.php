@@ -46,7 +46,7 @@ if (isset($_POST['submit'])) {
 } else {
 
     // import file login.php
-    include 'login.php';
+    include 'login.html';
 }
 
 ?>
